@@ -72,3 +72,38 @@ footer p {
 .figure-img:hover a {
     opacity: 1;
 }
+
+.breadcrumb {
+    margin-top: 100px;
+}
+
+.product-thumbnail-container {
+    background-color: white;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    width: 360px;
+    padding: 8px;
+    margin: auto;
+    transform: translateY(-45px);
+}
+
+.product-thumbnail-container a:hover {
+    text-decoration: none;
+}
+
+.btn-product {
+    margin: 50px 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #EAEAEF;
+}
+
+.btn-product .btn {
+    display: block;
+    margin: 10px 0;
+}
+
+.designed-by h5 {
+    font-size: 14px;
+    font-weight: 200;
+    color: #000000;
+    margin-bottom: 10px;
+}
